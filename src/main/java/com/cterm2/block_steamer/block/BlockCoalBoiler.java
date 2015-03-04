@@ -21,6 +21,7 @@ public class BlockCoalBoiler extends BlockContainer
 	
 		this.setStepSound(soundTypeStone);
 		this.setBlockName("coalBoiler");
+		this.setUnlocalizedName("coalBoiler")
 	}
 
 	@Override
